@@ -1,6 +1,5 @@
 # 🚀 LinkFlow: Crea Contenido Viral para LinkedIn con IA
 
-![LinkFlow Banner](./ruta/a/tu/imagen-principal.png)
 
 🔗 **Visítanos**: [https://linkflow.es](https://linkflow.es)
 
